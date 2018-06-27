@@ -22,23 +22,23 @@ body.overlay {
   border-bottom: 1px solid #ffffff;
 }
 #header {
-  background-color: #48a9e4;
-  background-image: -moz-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
-  background-image: -ms-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
-  background-image: -o-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #0779bf), color-stop(1, #48a9e4));
-  background-image: -webkit-linear-gradient(top, #0779bf 0%, #48a9e4 100%);
-  background-image: linear-gradient(top, #0779bf 0%, #48a9e4 100%);
+  background-color: #56a4d0;
+  background-image: -moz-linear-gradient(top, #56a4d0 0%, #56a4d0 100%);
+  background-image: -ms-linear-gradient(top, #56a4d0 0%, #56a4d0 100%);
+  background-image: -o-linear-gradient(top, #56a4d0 0%, #56a4d0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #56a4d0), color-stop(1, #56a4d0));
+  background-image: -webkit-linear-gradient(top, #56a4d0 0%, #56a4d0 100%);
+  background-image: linear-gradient(top, #56a4d0 0%, #56a4d0 100%);
 }
 a {
-  color: #0071B3;
+  color: #0070b3;
 }
 a:hover,
 a:focus {
-  color: #018fe2;
+  color: #008ee2;
 }
 a:active {
-  color: #23aeff;
+  color: #22adff;
 }
 .sidebar .block {
   background-color: #f6f6f2;
